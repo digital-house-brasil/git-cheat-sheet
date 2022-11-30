@@ -186,7 +186,6 @@
 
 > Pull request é um mecanismo onde um desenvolvedor pode gerar uma notificação que sinaliza a conclusão do desenvolvimento de uma feature qualquer. Isso permite que todos os envolvidos saibam que precisam fazer o merge do código na branch principal.
 
-![](./assets/git-pull-request.gif)
 ![](./assets/git-pr-1.png)
 ![](./assets/git-pr-2.png)
 ![](./assets/git-pr-3.png)
